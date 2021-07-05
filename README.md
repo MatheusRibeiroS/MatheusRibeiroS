@@ -1,4 +1,4 @@
-### Hi there 👋
+### Matheus Ribeiro
 
 <!--
 **MatheusRibeiroS/MatheusRibeiroS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+##  GitHub Stats
 <a href="https://github.com/MatheusRibeiroS"><img href="https://github.com/MatheusRibeiroS" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia"/>
 
 <a href="https://github.com/MatheusRibeiroS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia"/>
