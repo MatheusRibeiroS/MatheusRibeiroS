@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">  GitHub Stats </h2>
  
- 
+ <div>
   <a href="https://github.com/MatheusRibeiroS">
-  <img align="center" height="185em"  href="https://github.com/MatheusRibeiroS" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true&show_owner=true"/>
+  <img align="center" height="180em"  href="https://github.com/MatheusRibeiroS" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true&show_owner=true"/>
   </a>
+ 
    
 <a href="https://github.com/MatheusRibeiroS">
-  <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia"/>
 </a>
- 
+ </div>
 
