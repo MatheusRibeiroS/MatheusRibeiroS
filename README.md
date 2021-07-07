@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">  GitHub Stats </h2>
-<div align="center">  
-  <div>
-  <a href="https://github.com/MatheusRibeiroS"><img href="https://github.com/MatheusRibeiroS" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true&show_owner=true"/>
-    </div>
-    <div>
-<a href="https://github.com/MatheusRibeiroS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia"/>
-  </div>
-</div>
+ 
+ 
+  <a href="https://github.com/MatheusRibeiroS">
+  <img align="center" height="190em"  href="https://github.com/MatheusRibeiroS" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true&show_owner=true"/>
+  </a>
+   
+<a href="https://github.com/MatheusRibeiroS">
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia"/>
+</a>
+ 
+
