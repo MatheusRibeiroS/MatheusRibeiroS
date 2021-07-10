@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi 👋, I'm Matheus Ribeiro </h1>
-<h3 align="center">A undergraduate student of Computer Science at UNESP (São Paulo State University)</h3>
+<h3 align="center">A undergraduate student of Computer Science at <a href="https://www.international.unesp.br/">UNESP (São Paulo State University)</a>
+</h3>
 <h2 align="center"> GitHub Stats </h2>
 
 <div align="center">
