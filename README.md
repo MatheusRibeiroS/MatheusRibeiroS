@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img height="165em"
       src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true&show_owner=true" />
     <img height="165em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&theme=algolia" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&hide=scss&theme=algolia" />
   </a>
 </div>
 
