@@ -35,7 +35,8 @@ Here are some ideas to get you started:
  <a href="https://linkedin.com/in/matheus-ribeiros/" target="blank"><img align="center"
    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
    alt="www.linkedin.com/in/matheus-ribeiro-silva-" height="30" width="40" /></a> 
-  <a href="https://fb.com/mths.ribeiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/mths.ribeiro" height="30" width="40" /></a> <a href="https://instagram.com/maths_rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maths_rb/" height="30" width="40" /></a>
+ <a href="https://instagram.com/maths_rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maths_rb/" height="30" width="40" /></a>
+  <a href="https://fb.com/mths.ribeiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/mths.ribeiro" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages:</h3>
