@@ -29,6 +29,18 @@ Here are some ideas to get you started:
 
 <h1 align="center"></h1>
 
+<h3>Not seeing a lot of commits recently? I'm pretty active on my GitLab account, make sure to check that out too!</h3>
+
+<div align="center">
+   <a href="https://gitlab.com/MatheusRibeiroS">
+     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"/>
+     <p>gitlab.com/MatheusRibeiroS</p>
+   </a>
+</div>
+
+
+<h1 align="center"></h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/matheus-ribeiros/" target="blank"><img align="center"
