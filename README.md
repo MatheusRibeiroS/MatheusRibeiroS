@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div>
 <h1 align="center"> Hi 👋🏾, I'm Matheus Ribeiro </h1>
-<h3 align="center">A undergraduate student of Computer Science at <a href="https://www.international.unesp.br/" target="__blank">UNESP (São Paulo State University)</a>
+<h3 align="center">An undergraduate student of Computer Science at <a href="https://www.international.unesp.br/" target="__blank">UNESP (São Paulo State University)</a>
 </h3>
  </div>
  
