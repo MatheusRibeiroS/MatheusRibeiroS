@@ -29,18 +29,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"></h1>
 
-<h3>Not seeing a lot of commits recently? I'm pretty active on my GitLab account, make sure to check that out too!</h3>
-
-<div align="center">
-   <a href="https://gitlab.com/MatheusRibeiroS">
-     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"/>
-     <p>gitlab.com/MatheusRibeiroS</p>
-   </a>
-</div>
-
-
-<h1 align="center"></h1>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/matheus-ribeiros/" target="blank"><img align="center"
@@ -76,4 +64,15 @@ Here are some ideas to get you started:
         width="40" height="40" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a
         href="https://git-scm.com/" target="_blank"> <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</div>
+  
+<h1></h1>
+<div>
+<div align="center">
+    <a href="https://gitlab.com/MatheusRibeiroS">
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"/>
+      <p>gitlab.com/MatheusRibeiroS</p>
+    </a>
+ </div>
+ <h3 align="center">Looking for more recent activity? I've been quite active on my GitLab account, so feel free to check it out as well!</h3>
 </div>
