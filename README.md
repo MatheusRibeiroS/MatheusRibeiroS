@@ -95,7 +95,6 @@ Here are some ideas to get you started:
     <h3 align="center">Looking for more recent activity? I've been quite active on my GitLab account, so feel free to
         check it out as well!</h3>
     <div align="center">
-        <a><img src="https://github.com/MatheusRibeiroS/MatheusRibeiroS/blob/main/devcard.svg" width="350"
-        alt="MatheusRibeiroS Dev Card" /></a>
+        <a href="https://app.daily.dev/MatheusRibeiroS"><img src="./devcard.png" width="356" alt="MatheusRibeiroS Dev Card"/></a>
     </div>
 </div>
