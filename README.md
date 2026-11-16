@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img height="165em"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiroS&show_icons=true&theme=algolia&count_private=true" />
+      src="./profile-summary-card-output/algolia/3-stats.svg" />
     <img height="165em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiroS&layout=compact&hide=scss&theme=algolia" />
+      src="./profile-summary-card-output/algolia/2-most-commit-language.svg" />
 </div>
 
 <h1 align="center"></h1>
@@ -42,17 +42,37 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Programming languages:</h3>
-<div> 
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,cpp,c" />
-  </a>
-</div>
-
-<h3 align="left">Framework, Libs and Tools:</h3>
-
 <div>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,next,react,express,postgres,mongodb,docker,postman,jest,html,css,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c,html" />
+    </a>
+</div>
+
+<h3 align="left">Frameworks & Libraries:</h3>
+<div>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,nextjs,react" />
+    </a>
+</div>
+
+<h3 align="left">Cloud & DevOps:</h3>
+<div>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,terraform" />
+    </a>
+</div>
+
+<h3 align="left">Databases:</h3>
+<div>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+    </a>
+</div>
+
+<h3 align="left">Version Control:</h3>
+<div>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
     </a>
 </div>
 
